@@ -16,7 +16,7 @@ const Benefits = () => {
         <section className='ml-[128px] my-[128px] w-[50%]'>
       <h2 className="text-[32px] font-normal font-gotham text-office-brown-700 mb-4">Что вы получите:</h2>
       {steps.map((step, index) => (
-        <div key={index} className="flex items-start mb-4 items-center">
+        <div key={index} className="flex  mb-4 items-center">
           <div className="w-25 h-25 bg-[#E7F4FF] mb-[32px] text-[#48A7F8] font-gotham rounded-full flex items-center justify-center mr-4">
             <img src={step.number} alt={`${index+1}`} className='' />
           </div>

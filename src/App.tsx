@@ -1,8 +1,6 @@
-import { useState } from 'react'
 import './App.css'
-import {Header , HeaderContainer ,MainContainer,Benefits ,Reviews} from './component/index'
+import {Header , HeaderContainer ,MainContainer,Benefits ,Reviews ,Footer} from './component/index'
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -11,6 +9,7 @@ function App() {
         <MainContainer/>
         <Benefits/>
         <Reviews/>
+        <Footer/>
     </>
   )
 }

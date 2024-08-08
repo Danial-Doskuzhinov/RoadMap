@@ -15,6 +15,13 @@ export {default as BenefitIcon2} from './Benefit Icon Container (1).svg';
 export {default as BenefitIcon3} from './Benefit Icon Container (2).svg';
 export {default as BenefitIcon4} from './Benefit Icon Container (3).svg';
 export {default as BenefitIcon5} from './Benefit Icon Container (4).svg';
+export {default as User1} from './Ансат Алия 1.svg';
+export {default as MainContainer2} from './Main Container (1).svg';
+export {default as Social1} from './Icon Style.svg';
+export {default as Social4} from './Icon Style (3).svg';
+export {default as Social3} from './Icon Style (2).svg';
+export {default as Social2} from './Icon Style (1).svg';
+export {default as FooterImg} from './Footer Bottom Container.svg';
 
 
 

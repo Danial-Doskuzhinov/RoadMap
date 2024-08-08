@@ -1,4 +1,4 @@
-import {Icon1 ,Icon2 ,Icon3 ,MainContainer} from '../../assets/index'
+import {Icon1 ,Icon2 ,Icon3 ,MainContainer } from '../../assets/index'
 const MainApp = () => {
   return (
     <>
