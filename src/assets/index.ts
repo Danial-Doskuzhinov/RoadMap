@@ -22,6 +22,7 @@ export {default as Social4} from './Icon Style (3).svg';
 export {default as Social3} from './Icon Style (2).svg';
 export {default as Social2} from './Icon Style (1).svg';
 export {default as FooterImg} from './Footer Bottom Container.svg';
+export {default as User2} from './Vector.svg';
 
 
 

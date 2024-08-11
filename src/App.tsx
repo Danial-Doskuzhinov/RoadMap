@@ -1,4 +1,4 @@
-import './App.css'
+import './index.css'
 import {Header , HeaderContainer ,MainContainer,Benefits ,Reviews ,Footer} from './component/index'
 function App() {
 

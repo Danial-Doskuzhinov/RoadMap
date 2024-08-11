@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="max-w-screen-xl mx-auto flex justify-between mb-[40px]">
           <div>
             <nav className="mb-[40px]">
-              <ul className="flex space-x-8 font-gotham text-[20px] text-[#3E3838]">
+              <ul className="flex  space-x-8 font-gotham text-[20px] text-[#3E3838]">
                 <li><a href="#">Главная</a></li>
                 <li><a href="#">О нас</a></li>
                 <li><a href="#">Отзывы</a></li>

@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         gotham: ['Gotham', 'sans-serif'],
+        pacifico: ['Pacifico', 'cursive'],
       },
       backgroundImage: {
         'custom-image': "url('./src/assets/Illustration.svg')",

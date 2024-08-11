@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { MainContainer2 ,User1 } from '../../assets/index';
+import { MainContainer2 ,User1 ,User2 } from '../../assets/index';
 
 const testimonials = [
   {
@@ -11,7 +11,7 @@ const testimonials = [
   {
     name: 'Иван Иванов',
     title: 'дизайнер',
-    image: 'path_to_image', 
+    image: User2, 
     text: 'Очень полезное приложение! Помогло мне определить мои сильные стороны и выбрать направление для дальнейшего развития.',
   },
   {

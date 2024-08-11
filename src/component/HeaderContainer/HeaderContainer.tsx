@@ -3,15 +3,16 @@ const HeaderContainer = () => {
   return (
     <div  className="pt-[128px] bg-custom-image flex flex-col items-center bg-no-repeat  bg-top-4 justify-center bg-[#F4EFE4]">
        <div className="text-center  mb-8">
-        <h1 className="text-[80px] font-bold">Your way to <span className="text-yellow-500">Success</span></h1>
+        <h1 className="text-[80px] font-bold">Your way to <span className="font-pacifico font-thin">Success</span></h1>
         <p className="text-[20px] font-serif text-[#645D5D]">Карьера • Саморазвитие • Успех</p>
       </div>
       <div className="flex flex-col items-center">
         <div className="flex space-x-4 mb-8">
-          <img src={GooglePlay} alt="Google Play" />
-          <img src={AppStore} alt="AppStore" />
+          <img src={GooglePlay} alt="Google Play" className='cursor-pointer' />
+          <img src={AppStore} alt="AppStore" className='cursor-pointer'/>
         </div>
           <img src={Container} alt="Container" />
+          <button className='w-[280px] h-[40px] absolute top-[68.5rem]'></button>
       </div> 
 
     </div>

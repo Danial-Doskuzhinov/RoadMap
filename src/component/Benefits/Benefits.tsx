@@ -30,7 +30,7 @@ const Benefits = () => {
     
     </article>
     <section className='mx-[132px]'>
-        <h3 className='text-[32px] font-gotham font-normal '>Преимущества приложения</h3>
+        <h3 className='text-[32px] font-gotham mb-[40px] font-normal '>Преимущества приложения</h3>
         <img src={List} alt="Преимущества приложения" />
     </section>
     </>
